@@ -62,7 +62,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dhayespindola&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<img align="right" alt="GIF de estudos" height="200px" src="study.gif">
+<img align="right" alt="GIF de estudos" height="190px" src="study.gif">
 <img align="center" alt="" src="./src/header-gif.gif">
 </p>
  
