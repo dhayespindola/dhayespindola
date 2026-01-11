@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Dhay Espindola 
+# 👩🏻‍💻 Dhay Espíndola 
 
 **`Desenvolvedora FullStack em Formação`**
 
